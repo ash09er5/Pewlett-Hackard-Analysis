@@ -18,6 +18,10 @@ In this challenge we are introduced to sql which is one of the more effiectnt wa
  With over 57,000 employees eleigble for retirement that is equal to 60% of your workforce leaving very soon
  As far as mentors are concerded there are over 50,000 people eligible to be a mentor so they do have the staff numbers
  to lead the next generation of workers and eventually fill the spots that will be vacant.
+ 
+ 
+ 
+ 
  ![Screenshot 2021-10-03 185517](https://user-images.githubusercontent.com/25463509/135775812-5f4452c4-8153-4f2c-bc92-91bb1db66d43.png)
 
  ERD:
